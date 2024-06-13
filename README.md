@@ -1,8 +1,8 @@
-# codsoft_1
+## codsoft_1
 task 1 of codsoft python internship -TO DO List
 
 
-# FEATURES
+## FEATURES
 
 - Add tasks with descriptions and due dates.
 - View existing tasks in a list format.
